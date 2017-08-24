@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://git-scm.com/images/logo@2x.png" width="100" heigh="50"/>
 </p>
+
 # Tutorial Git
 
 ### O que é Git?
